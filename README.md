@@ -70,7 +70,7 @@ Finally, I combined demand and salary into a single view — skills that are bot
 
 ## Conclusion
 
-1. **SQL is non-negotiable.** It shows up in more postings than any other skill by a wide margin — it's the entry ticket, not a differentiator.
-2. **Python + visualization tools (Tableau/Power BI) form the next tier** of near-universal expectations for Data Analyst roles.
-3. **The highest salaries go to analysts who cross into engineering territory** — big data tools, cloud platforms, and dev tooling command a real premium over "pure" analyst skills.
-4. **The most strategic path isn't chasing the single highest-paying skill** — it's building outward from core skills (SQL, Python) toward the high-value, engineering-adjacent tools that show up in the optimal-skills analysis.
+1. **SQL is the entry ticket**, not a differentiator — it's in nearly every posting.
+2. **Python + Tableau/Power BI** round out the core stack employers expect.
+3. **Engineering-adjacent skills pay the most** — big data, cloud, and dev tooling beat "pure" analyst tools.
+4. **Don't chase the highest-paying skill alone** — build outward from SQL and Python toward the high-value tools in the optimal-skills list.
